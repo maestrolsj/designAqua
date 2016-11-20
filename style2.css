@@ -1,0 +1,135 @@
+
+
+a img.example1 {
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin: 10px;
+}
+
+a:hover img.example1 {
+	background-color: #666;
+}
+
+a img.example2 {
+	border: 0px solid white;
+	padding: 0px;
+	margin: 0px;
+}
+
+a:hover img.example2 {
+	border: 5px dashed #ccc;
+}
+
+a.example3-1 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/facebook.png);
+	text-indent: -9999px;
+	margin: 15px;
+}
+
+a.example3-1:hover {
+	background-image: url(images/naver.png);
+}
+
+a.example3-2 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/catalog.png);
+	text-indent: -9999px;
+	margin: 15px;
+}
+
+a.example3-2:hover {
+	background-image: url(images/photo2.jpg);
+}
+
+a.example3-3 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/photo3-bw.jpg);
+	text-indent: -9999px;
+	margin: 15px;
+}
+
+a.example3-3:hover {
+	background-image: url(images/photo3.jpg);
+}
+
+a.example5-1 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/photo1.jpg);
+	background-repeat: no-repeat;
+	padding-top: 160px;
+	height: 200px;
+	text-indent: -9999px;
+	margin: 15px;
+	text-decoration: none;
+	color: #666;
+	font-weight: bold;
+}
+
+a img.example4 {
+	margin: 5px;
+}
+
+a.ex4 {
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+a.ex4:hover {
+	background-image: url(images/gradient-bg.jpg);
+}
+
+a.example5-1:hover {
+	text-indent: 0px;
+}
+
+a.example5-2 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/photo2.jpg);
+	background-repeat: no-repeat;
+	padding-top: 160px;
+	text-indent: -9999px;
+	margin: 15px;
+	text-decoration: none;
+	color: #666;
+	font-weight: bold;
+}
+
+a.example5-2:hover {
+	text-indent: 0px;
+}
+
+a.example5-3 {
+	display: block;
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-image: url(images/photo3.jpg);
+	background-repeat: no-repeat;
+	padding-top: 160px;
+	text-indent: -9999px;
+	margin: 15px;
+	text-decoration: none;
+	color: #666;
+	font-weight: bold;
+}
+
+a.example5-3:hover {
+	text-indent: 0px;
+}
